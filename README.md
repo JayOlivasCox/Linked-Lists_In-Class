@@ -1,1 +1,0 @@
-This program reads in the letters in zcsjoke.txt or zlargefile.txt depending on what the user wants. This was the first program in which I wrote a linked-list. I wrote this in Data Structures class in college.
